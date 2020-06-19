@@ -1,0 +1,25 @@
+{
+  "name": "another-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otepiii/Another-Chat-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Otepiii/Another-Chat-app/issues"
+  },
+  "homepage": "https://github.com/Otepiii/Another-Chat-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
