@@ -5,6 +5,10 @@ body {
   justify-content: center;
 }
 
-form {
+#send-container {
+  position: fixed;
   bottom: 0;
+  width: 100%;
+  text-align: center;
+  bottom: 1rem;
 }
